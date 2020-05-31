@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: neonfoxbyte.github.io
+Token: d0b7c8356d248c6c380ecfea3fdcf460ec487a87a118e279bd77e83f42a53037
